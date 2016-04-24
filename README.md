@@ -14,13 +14,13 @@ No installation required. Here are the steps required to get the sequence of ima
 * Clone the repo
 * Copy the stl file to the directory
 * Create a directory `slices`
-* Edit openDLP.scad and change the file name to your stl
+* Edit generate.sh and change the filename to your stl
 * Change thickness value in openDLP.scad
 * Change the layercount and min/max values to fit the stl
 * run `./generate.sh`
 
 ## TODO
-* [ ] Make file name parametric
+* [x] Make file name parametric
 * [ ] Accept command line file name argument
 * [ ] Condense into one script, instead of two (python?)
 * [ ] Accept command line thickness value
