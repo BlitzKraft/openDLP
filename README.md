@@ -25,3 +25,4 @@ No installation required. Here are the steps required to get the sequence of ima
 * [ ] Condense into one script, instead of two (python?)
 * [ ] Accept command line thickness value
 * [ ] Compute z bounds automatically
+* [ ] Create folder in the generate file
